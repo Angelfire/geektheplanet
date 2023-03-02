@@ -1,0 +1,16 @@
+.container {
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.gtp {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.logo {
+  align-self: center;
+  width: 400px;
+  object-fit: contain;
+}
